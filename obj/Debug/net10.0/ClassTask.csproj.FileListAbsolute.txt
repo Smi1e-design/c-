@@ -12,3 +12,4 @@ C:\Users\user\Desktop\c#\ClassTask\obj\Debug\net10.0\refint\ClassTask.dll
 C:\Users\user\Desktop\c#\ClassTask\obj\Debug\net10.0\ClassTask.pdb
 C:\Users\user\Desktop\c#\ClassTask\obj\Debug\net10.0\ClassTask.genruntimeconfig.cache
 C:\Users\user\Desktop\c#\ClassTask\obj\Debug\net10.0\ref\ClassTask.dll
+C:\Users\user\Desktop\c#\ClassTask\obj\Debug\net10.0\ClassTask.sourcelink.json
